@@ -8,3 +8,5 @@ etc...
 Day 100 would be saving £1.00 with total savings = £50.50 
 
 At the end of the year on day 365 the saving for the day would be £3.65 and total saving amount would be £667.95
+
+Running savings.py will tell you how much to save that day and also how much you should have total in your savings.
